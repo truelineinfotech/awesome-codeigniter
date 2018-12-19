@@ -94,7 +94,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 * [Developer Toolbar](https://github.com/JCSama/CodeIgniter-develbar) - Developer Toolbar is a third party library based on Profiler.
 * [CodeIgniter Bundle](https://github.com/davidsosavaldes/Codeigniter-Bundle) - CodeIgniter Bundle implements a Modular pattern (MMVC) into Codeigniter Framework. 
 * [Codeigniter Global Installer](https://github.com/davidsosavaldes/Codeigniter-Installer) - A Composer global command that installs the latest official CodeIgniter framework.
-
+* [Codeigniter Log Viewer](https://github.com/SeunMatt/codeigniter-log-viewer) - This is a simple Log Viewer for viewing Code Igniter logs on the browser and via API clients.
 ## CRUD
 * [Grocery CRUD](https://github.com/scoumbourdis/grocery-crud) - CRUD library that creates a full functional.
 * [Grocery CRUD Image](http://www.grocerycrud.com/image-crud) - CRUD Image library by grocerycrud.
